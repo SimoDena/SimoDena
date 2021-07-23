@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SimoDena
-- 👀 I’m interested in C# programming language
-- 🌱 I’m currently learning ASP.NET
+- 👀 I’m interested in .NET applications developement
+- 🌱 I’m currently learning ASP.NET Core
 
 <!---
 SimoDena/SimoDena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
